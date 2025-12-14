@@ -1,5 +1,11 @@
 # Civilization Strategy Sim 🔥💧
 
+Author
+
+Prasamita Bangal
+Int M.Tech CSE Student
+Mahindra University
+
 A Java-based turn-based civilization strategy game built using **Swing GUI**, **multithreading**, and **OOP principles**.
 
 ## Game Overview
@@ -61,7 +67,7 @@ Concepts Used
 5] Exception Handling
 6] Java Swing GUI
 
-## ▶️ How to Run the Game
+##  How to Run the Game
 
 ### Compile all source files
 From the project root:
@@ -87,7 +93,3 @@ Army Strength
 Population
 
 
-Author
-Prasamita Bangal
-Int M.Tech CSE Student
-Mahindra University
