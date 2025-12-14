@@ -1,4 +1,4 @@
-# Civilization Strategy Sim 🏰🔥💧
+# Civilization Strategy Sim 🔥💧
 
 A Java-based turn-based civilization strategy game built using **Swing GUI**, **multithreading**, and **OOP principles**.
 
