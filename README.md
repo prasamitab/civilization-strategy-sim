@@ -2,8 +2,8 @@
 
 Author
 
-Prasamita Bangal
-Int M.Tech CSE Student
+Prasamita Bangal | 
+Int M.Tech CSE Student | 
 Mahindra University
 
 A Java-based turn-based civilization strategy game built using **Swing GUI**, **multithreading**, and **OOP principles**.
